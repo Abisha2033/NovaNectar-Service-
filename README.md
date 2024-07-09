@@ -1,2 +1,0 @@
-# NovaNectar-Service-
-Internship 
